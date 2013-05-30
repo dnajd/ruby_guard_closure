@@ -1,0 +1,17 @@
+
+# OS-specific
+.DS_Store
+
+# Rubinius
+*.rbc		
+
+# IDE junk
+.idea/*
+*.iml
+
+# bundler
+/.bundle
+/vendor
+
+# settings
+settings.yml
